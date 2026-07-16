@@ -1,4 +1,4 @@
-# BORED INTERN
+# BOREDMONKEY 
 
 A small Instagram influencer discovery and outreach automation project. It searches for influencer profiles by niche and region, scrapes profile data from Instagram using Apify, saves structured records to Google Sheets, and can automatically send outreach emails for approved influencers.
 
