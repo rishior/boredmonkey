@@ -127,7 +127,7 @@ python watcher.py
 
 ## Expected Google Sheet Columns
 
-The project assumes the sheet contains the following headers in the first row:
+The project sheet contains the following headers in the first row:
 - `Username`
 - `Full Name`
 - `Followers`
@@ -142,6 +142,6 @@ The project assumes the sheet contains the following headers in the first row:
 
 ## Notes
 
-- Do not commit `.env` or `credentials.json` to public repositories.
+
 - The code relies on external services: SerpApi for search, Apify for scraping, Google Sheets API, and Gmail SMTP.
 - The current `watcher.py` loop runs forever until interrupted.
