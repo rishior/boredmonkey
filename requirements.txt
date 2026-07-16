@@ -1,0 +1,13 @@
+pandas
+instaloader
+gspread
+google-auth
+schedule
+python-dotenv
+apify-client
+gspread
+google-auth
+pandas
+python-dotenv
+requests
+schedule
